@@ -1,3 +1,3 @@
 # weather-forcaste-app
 <br/>
-Author-tathagat
+Author-tathagat(tathagat-chaubey)
